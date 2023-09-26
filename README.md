@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalp988&show_icons=true&locale=en&layout=compact" alt="sankalp988" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalp988&show_icons=true&locale=en" alt="sankalp988" /></p>
+
